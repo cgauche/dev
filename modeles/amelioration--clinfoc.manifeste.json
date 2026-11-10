@@ -1,0 +1,32 @@
+{
+  "schema": 3,
+  "categorie": "amelioration",
+  "cle": {
+    "amelioration": "clinfoc"
+  },
+  "liaison": {
+    "mode": "rigide"
+  },
+  "montage": "ancrages",
+  "surfaces": [
+    {
+      "nom": "bois",
+      "palette": "bois",
+      "matiere": "prop--bois-chene"
+    },
+    {
+      "nom": "toile",
+      "palette": "vet1",
+      "matiere": "prop--toile-ecrue"
+    },
+    {
+      "nom": "rayure",
+      "palette": "vet2",
+      "matiere": "prop--toile-rouge"
+    }
+  ],
+  "glb": {
+    "sha256": "7621754bc1d17b8071babf388498dd131a4f77d68237eccd84607cf7abe93d5a",
+    "octets": 8740
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "accessoire",
+  "cle": {
+    "piece": "ruban"
+  },
+  "liaison": {
+    "mode": "surface"
+  },
+  "couche": "tenue",
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "ruban",
+      "palette": "vet1"
+    }
+  ],
+  "glb": {
+    "sha256": "71c8bfdd45c493c3571da2357a2bc9414cebd81885df86650bc2471302530201",
+    "octets": 251236
+  }
+}

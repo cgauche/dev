@@ -1,0 +1,35 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "vetement",
+  "cle": {
+    "piece": "pourpoint"
+  },
+  "liaison": {
+    "mode": "squelette"
+  },
+  "couche": "tenue",
+  "couvre": [
+    "torse",
+    "bras_haut_g",
+    "bras_haut_d",
+    "avant_bras_g",
+    "avant_bras_d"
+  ],
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "pourpoint",
+      "palette": "vet2"
+    }
+  ],
+  "glb": {
+    "sha256": "c724353189230d2256e2d15ff64acb6adf91798c6c71c8abd86d8abd232dc5e0",
+    "octets": 704576
+  }
+}

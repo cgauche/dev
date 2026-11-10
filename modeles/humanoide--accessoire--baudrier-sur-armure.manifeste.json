@@ -1,0 +1,32 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "accessoire",
+  "cle": {
+    "piece": "baudrier-sur-armure"
+  },
+  "liaison": {
+    "mode": "surface"
+  },
+  "couche": "tenue",
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "cuir",
+      "palette": "cuir"
+    },
+    {
+      "nom": "metal",
+      "palette": "metal"
+    }
+  ],
+  "glb": {
+    "sha256": "f4f41d649558bce8e5f2c1b606b3329781e250aa03c5dd22ff5068e6b1da582e",
+    "octets": 353656
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "vetement",
+  "cle": {
+    "piece": "gants"
+  },
+  "liaison": {
+    "mode": "squelette"
+  },
+  "couche": "tenue",
+  "couvre": [
+    "main_g",
+    "main_d"
+  ],
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "cuir",
+      "palette": "cuir"
+    }
+  ],
+  "glb": {
+    "sha256": "79ccfde3faccab12b86388ea73d2d6fd151fdf97966ede58d05bf2e8b225c57a",
+    "octets": 477876
+  }
+}
