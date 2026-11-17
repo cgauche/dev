@@ -1,0 +1,27 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "rigide",
+  "cle": {
+    "apparence": "sac_de_couchage"
+  },
+  "liaison": {
+    "mode": "rigide"
+  },
+  "surfaces": [
+    {
+      "nom": "toile",
+      "palette": "vet2",
+      "matiere": "prop--toile-ecrue"
+    },
+    {
+      "nom": "cuir",
+      "palette": "cuir",
+      "matiere": "prop--cuir-tanne"
+    }
+  ],
+  "glb": {
+    "sha256": "1fa9afebe085dbf61650d75795a80441420f644575089ff9895574c0e7ec727d",
+    "octets": 73848
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "vetement",
+  "cle": {
+    "piece": "bandages"
+  },
+  "liaison": {
+    "mode": "squelette"
+  },
+  "couche": "dessous",
+  "couvre": [
+    "avant_bras_g",
+    "avant_bras_d"
+  ],
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "bandages",
+      "palette": "vet2",
+      "matiere": "prop--toile-ecrue"
+    }
+  ],
+  "glb": {
+    "sha256": "57361b6d693dec619f5c3673999f226af21779fa600137076ac6352327290740",
+    "octets": 326164
+  }
+}

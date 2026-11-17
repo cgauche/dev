@@ -1,0 +1,39 @@
+{
+  "schema": 3,
+  "base": "humanoide",
+  "categorie": "vetement",
+  "cle": {
+    "piece": "pourpoint"
+  },
+  "liaison": {
+    "mode": "squelette"
+  },
+  "couche": "tenue",
+  "couvre": [
+    "torse",
+    "bras_haut_g",
+    "bras_haut_d"
+  ],
+  "silhouettes": [
+    "feminin",
+    "corpulence",
+    "carrure_moins",
+    "carrure_plus"
+  ],
+  "surfaces": [
+    {
+      "nom": "pourpoint",
+      "palette": "vet2",
+      "matiere": "prop--drap-terne"
+    },
+    {
+      "nom": "creves",
+      "palette": "vet1",
+      "matiere": "prop--drap-terne"
+    }
+  ],
+  "glb": {
+    "sha256": "e8ae65d54fcea143660aaa84214579b42b79a5f2ffc0f961c378f136e2264b5b",
+    "octets": 408592
+  }
+}

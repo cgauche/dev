@@ -1,0 +1,25 @@
+{
+  "schema": 3,
+  "categorie": "amelioration",
+  "cle": {
+    "amelioration": "blindage-fer"
+  },
+  "liaison": {
+    "mode": "rigide"
+  },
+  "montage": "ancrages",
+  "selon": {
+    "sabord": {}
+  },
+  "surfaces": [
+    {
+      "nom": "fer",
+      "palette": "metal",
+      "matiere": "prop--fer-noirci"
+    }
+  ],
+  "glb": {
+    "sha256": "d5b637af6ac638bbaccf54693a3fe0317daed002b0f940c1a366f92cb9ffe20c",
+    "octets": 97680
+  }
+}

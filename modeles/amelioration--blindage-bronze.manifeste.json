@@ -1,0 +1,25 @@
+{
+  "schema": 3,
+  "categorie": "amelioration",
+  "cle": {
+    "amelioration": "blindage-bronze"
+  },
+  "liaison": {
+    "mode": "rigide"
+  },
+  "montage": "ancrages",
+  "selon": {
+    "sabord": {}
+  },
+  "surfaces": [
+    {
+      "nom": "bronze",
+      "palette": "metal",
+      "matiere": "prop--laiton-dore"
+    }
+  ],
+  "glb": {
+    "sha256": "ffb21e5e63c79ccd2e52de6e364aae0b8a13d63cf1195633ed58332e68adc301",
+    "octets": 97684
+  }
+}
